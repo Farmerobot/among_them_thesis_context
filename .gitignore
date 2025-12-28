@@ -1,0 +1,3 @@
+# Ignore latex_project except readme
+latex_project/*
+!latex_project/readme.md
