@@ -1,3 +1,3 @@
-# Ignore latex_project except readme
+# Ignore latex_project contents except .gitkeep
 latex_project/*
-!latex_project/readme.md
+!latex_project/.gitkeep
